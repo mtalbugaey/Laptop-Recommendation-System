@@ -2,7 +2,7 @@
 An expert system written in Prolog, that recommend the best laptop based on user usage and preferences.
 The system is divided into 3 category which are daily use, programming, and gaming and designing
 
-# Screanshots
+# Screenshots
 ## Start Output
 ![image](https://user-images.githubusercontent.com/126514202/222284906-8789a155-56c5-4ae0-a35b-348eba6ff0f5.png)
 
